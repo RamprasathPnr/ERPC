@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "494413318423",
+    "firebase_url": "https://erpc-app.firebaseio.com",
+    "project_id": "erpc-app",
+    "storage_bucket": "erpc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494413318423:android:f6f37cbef903d02a",
+        "android_client_info": {
+          "package_name": "com.omneagate.erpc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494413318423-o0bq6qctiq2ojs9b9fo47kf7a4un0jcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC05L21mYKuRYICfQ8lvDuOhMOP4v9lVak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
